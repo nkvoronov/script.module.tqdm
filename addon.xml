@@ -16,7 +16,6 @@
 		<description lang="ru_RU">Быстрый, расширяемый индикатор прогресса.</description>
 		<description lang="uk_UA">Швидкий, розширюваний вимірювач прогресу.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.tqdm.git</source>
 		<assets>
